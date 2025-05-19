@@ -15,7 +15,7 @@ O layout inclui:
 
 ## 📸 Preview
 
-![Preview do projeto](assets/img/ScreenShot.png)
+![Preview do projeto](./assets/img/ScreenShot.png)
 
 ## 🚀 Tecnologias Utilizadas
 
